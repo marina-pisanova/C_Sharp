@@ -5,7 +5,7 @@ int[] arr = new int[n];
 int i = 0;
 
 // while (i < n)
-while (i < arr.Length)
+while (i < arr.)
 {
     arr[i] = i + 1;
     // coconsole.Write(arr[i]);
